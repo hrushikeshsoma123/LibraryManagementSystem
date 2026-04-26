@@ -73,3 +73,4 @@ Interface Segregation - Small interfaces (Observer, Strategy)
 Dependency Inversion  - Services depend on abstractions             
 
 ----------------------------------------------------------------------------------
+![img_1.png](img_1.png)
